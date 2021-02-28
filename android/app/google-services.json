@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1097850888461",
+    "project_id": "alwayswithyou-213ec",
+    "storage_bucket": "alwayswithyou-213ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097850888461:android:db41ee43276e3ebc335044",
+        "android_client_info": {
+          "package_name": "com.example.awyd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097850888461-en2oci0ttqst4u2bo2310r50mus34v8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.awyd",
+            "certificate_hash": "6b9de58c4968a504a30bd08832a6084068dfd100"
+          }
+        },
+        {
+          "client_id": "1097850888461-m9cj90fu2qhe7okroel4ks29adr15bfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXHWeH5k0CsvcT8WRYs-shGFuz5oauxkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097850888461-m9cj90fu2qhe7okroel4ks29adr15bfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
